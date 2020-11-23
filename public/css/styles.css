@@ -1,0 +1,21 @@
+body {
+    background-color: #F2E2D2;
+}
+
+.fl {
+    padding-left: 10px;
+}
+
+h1 {
+    border: 5px groove #947BD3;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: lightskyblue;
+}
+.cl {
+    background-color: #ffd369;
+}
